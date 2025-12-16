@@ -1,0 +1,6 @@
+[submodule "spring-microservices-cloud-demos"]
+	path = spring-microservices-cloud-demos
+	url = git@github.com:abhilashRupa/spring-microservices-cloud-demos.git
+[submodule "spring-microservices-cloud-exercises"]
+	path = spring-microservices-cloud-exercises
+	url = git@github.com:abhilashRupa/spring-microservices-cloud-exercises.git
